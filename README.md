@@ -5,4 +5,3 @@
 4. Solicitar un Pull Request.
 ------------------------------------
 - https://github.com/farcasucam
-- https://github.com/MohammadRizwan777
