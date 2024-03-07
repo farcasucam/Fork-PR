@@ -5,5 +5,4 @@
 4. Solicitar un Pull Request.
 ------------------------------------
 - https://github.com/farcasucam
-
-Cortan11
+- Cristóbal
