@@ -1,4 +1,3 @@
-
 # Fork y Pull Request
 1. Hacer un Fork de este repositorio.
 2. Hacer un git clone de vuestra copia del repositorio en vuestro Visual Studio Code
@@ -8,3 +7,4 @@
 - https://github.com/farcasucam
 - https://github.com/ang-05
 - https://github.com/amgv13
+- Antonio Romero
