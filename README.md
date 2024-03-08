@@ -5,4 +5,9 @@
 4. Solicitar un Pull Request.
 ------------------------------------
 - https://github.com/farcasucam
+- https://github.com/ang-05
+- https://github.com/amgv13
+- Antonio Romero
+- https://github.com/MohammadRizwan777
+- Cristobal
 - Alberto Hernández López
