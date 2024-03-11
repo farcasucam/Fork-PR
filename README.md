@@ -12,3 +12,4 @@
 - Cristobal
 - Alberto Hernández López
 - Pablo Aragon Garcia
+- jose 
