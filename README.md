@@ -4,6 +4,7 @@
 3. Añadir a este archivo vuestro nombre de usuario
 4. Solicitar un Pull Request.
 ------------------------------------
+- https://github.com/J0rgwUNI
 - https://github.com/farcasucam
 - https://github.com/ang-05
 - https://github.com/amgv13
@@ -13,3 +14,12 @@
 - Alberto Hernández López
 - Pablo Aragon Garcia
 - https://github.com/OCristo
+- https://github.com/eliasp4
+- https://github.com/one-sama
+- https://github.com/natinat95
+- https://github.com/AntonioManresa9
+- https://github.com/JSanzUcam
+- https://github.com/RobertoSgD
+- https://github.com/dominmd-ucam
+- https://github.com/Xiaotian34
+- https://github.com/joathan99
