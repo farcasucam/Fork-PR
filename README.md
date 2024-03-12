@@ -13,6 +13,7 @@
 - Cristobal
 - Alberto Hernández López
 - Pablo Aragon Garcia
+- https://github.com/OCristo
 - https://github.com/eliasp4
 - https://github.com/one-sama
 - https://github.com/natinat95
