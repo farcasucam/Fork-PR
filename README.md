@@ -27,6 +27,7 @@
 - https://github.com/AdrianBdz
 - https://github.com/Joaquin292929
 - https://github.com/gabrieldemariana
+- https://github.com/Miguel-Angel-Laurero
 - https://github.com/GRXcoding
 - https://github.com/Polsyt0
 
