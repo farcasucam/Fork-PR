@@ -34,3 +34,4 @@
 - 🧑‍💻 [gabrieldemariana](https://github.com/gabrieldemariana)
 - 🧑‍💻 [Miguel-Angel-Laurero](https://github.com/Miguel-Angel-Laurero)
 - 🧑‍💻 [GRXcoding](https://github.com/GRXcoding)
+- 🧑‍💻 [Jorge_miravete_parra](https://github.com/AlpaX-dev)
