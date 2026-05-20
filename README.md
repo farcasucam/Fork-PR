@@ -20,3 +20,5 @@ Izan Valverde Marín
 
 Jonathan Ortiz Belmar
 Sandra Berná Zaplana 
+
+Bruno Farías Hernández
