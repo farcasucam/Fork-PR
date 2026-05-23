@@ -19,6 +19,7 @@ Izan Valverde Marín
 [Tomas Palma Sanchez](https://tomasps.com)
 
 Jonathan Ortiz Belmar
-Sandra Berná Zaplana 
+Sandra Berná Zaplana
+Cristian Hidalgo Ramos
 
 Ismael Liza
