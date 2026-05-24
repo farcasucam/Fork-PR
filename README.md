@@ -22,3 +22,5 @@ Jonathan Ortiz Belmar
 Sandra Berná Zaplana 
 
 Ismael Liza
+
+Laura Gonzalo Salinas (DAW)
